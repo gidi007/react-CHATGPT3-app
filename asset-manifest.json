@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-CHATGPT3-app/static/css/main.86613c9d.chunk.css",
+    "main.js": "/react-CHATGPT3-app/static/js/main.8957128b.chunk.js",
+    "main.js.map": "/react-CHATGPT3-app/static/js/main.8957128b.chunk.js.map",
+    "runtime-main.js": "/react-CHATGPT3-app/static/js/runtime-main.ae8a7a44.js",
+    "runtime-main.js.map": "/react-CHATGPT3-app/static/js/runtime-main.ae8a7a44.js.map",
+    "static/js/2.c0e8bbb1.chunk.js": "/react-CHATGPT3-app/static/js/2.c0e8bbb1.chunk.js",
+    "static/js/2.c0e8bbb1.chunk.js.map": "/react-CHATGPT3-app/static/js/2.c0e8bbb1.chunk.js.map",
+    "index.html": "/react-CHATGPT3-app/index.html",
+    "static/css/main.86613c9d.chunk.css.map": "/react-CHATGPT3-app/static/css/main.86613c9d.chunk.css.map",
+    "static/js/2.c0e8bbb1.chunk.js.LICENSE.txt": "/react-CHATGPT3-app/static/js/2.c0e8bbb1.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/react-CHATGPT3-app/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/react-CHATGPT3-app/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/react-CHATGPT3-app/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/react-CHATGPT3-app/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/react-CHATGPT3-app/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/react-CHATGPT3-app/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.5114679f.svg": "/react-CHATGPT3-app/static/media/logo.5114679f.svg",
+    "static/media/people.5cd2d6fb.png": "/react-CHATGPT3-app/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/react-CHATGPT3-app/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae8a7a44.js",
+    "static/js/2.c0e8bbb1.chunk.js",
+    "static/css/main.86613c9d.chunk.css",
+    "static/js/main.8957128b.chunk.js"
+  ]
+}
